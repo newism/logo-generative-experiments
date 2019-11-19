@@ -1,4 +1,4 @@
-# logo
+# Newism Logo Generative Madness
 
 ## Project setup
 ```
